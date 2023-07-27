@@ -25,7 +25,7 @@ exercises.
   Vector)`. The tool dialog will appear.
 * Set it up like this:
 
-  .. figure:: img/polygonize_raster.png
+  .. figure:: img/polygonize_raster_vector.png
      :align: center
 
 * Change the field name (describing the values of the raster) to
@@ -61,7 +61,7 @@ Refer back to the module on vector analysis.
       isn't met. When viewed over the original raster, the areas should overlap
       perfectly:
 
-      .. figure:: img/polygonize_raster.png
+      .. figure:: img/query_builder.png
          :align: center
 
    #. You can save this layer by right-clicking on the :guilabel:`all_terrain`
@@ -78,7 +78,7 @@ opposite conversion from the one performed above. Convert to raster the
 * Click on :menuselection:`Raster --> Conversion --> Rasterize (Vector to
   Raster)` to start this tool, then set it up as in the screenshot below:
 
-.. figure:: img/vector_to_raster.png
+.. figure:: img/rasterize_vector_raster.png
    :align: center
 
 * :guilabel:`Input layer` is :guilabel:`all_terrain`.
